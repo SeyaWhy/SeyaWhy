@@ -11,7 +11,7 @@
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node-4a7558?style=flat&logo=node.js"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-e6e600?style=flat&logo=javascript"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-e6e600?style=flat&logo=javascript"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-54afff?style=flat&logo=typescript"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3429ff?style=flat&logo=python"/></a>
 
