@@ -11,9 +11,9 @@
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node-4a7558?style=flat&logo=node.js"/></a>
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-e6e600?style=flat&logo=javascript"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-54afff?style=flat&logo=typescript"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3429ff?style=flat&logo=python"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-235A97?style=flat&logo=typescript"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-275277?style=flat&logo=python"/></a>
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
