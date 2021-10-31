@@ -18,7 +18,7 @@
 <h2><strong>🛠️ Development Environment: </strong></h2>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-F64D27?style=flat&logo=git"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-EAE9E1?style=flat&logo=git"/></a>
 <a href="https://www.opera.com/en"><img src="https://img.shields.io/badge/-Opera-F7192B?style=flat&logo=opera"/></a>
 
 <br><br>
