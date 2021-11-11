@@ -1,4 +1,4 @@
-<center><h1>Hello, SeyaWhy!</h1></center>
+<center><h1>Hello, Seya!</h1></center>
 
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/SeyaWhy/README.MD/main/0f89e155d73badb31f8fddf5225be8b1baa5f225c4652f6306f156a78f3bbadc.png" width="300" align="right"></a>
 
