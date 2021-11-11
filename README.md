@@ -6,7 +6,6 @@
 
 <br>
 
-<a href="https://github.com/Fn79"><img src="https://komarev.com/ghpvc/?username=fn79" width="120"/></a>
 <a href="https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9"><img src="https://img.shields.io/badge/-My favorite music-000000?style=flat&logo=spotify"/></a>
 
 <h2><strong>💻 Languages: </strong></h2>
