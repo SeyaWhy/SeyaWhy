@@ -28,7 +28,7 @@
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
-<a href="https://github.com/Fn79">
+<a href="https://github.com/SeyaWhy">
     <center><img src="https://github.com/SeyaWhy/SeyaWhy/blob/snake/snake.svg" alt="snake"/></center>
 </a>
 
