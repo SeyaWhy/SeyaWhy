@@ -27,7 +27,7 @@
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/seyawhy/seyawhy/blob/master/github-metrics.svg)
 
 <!-- snake
 <a href="https://github.com/SeyaWhy">
