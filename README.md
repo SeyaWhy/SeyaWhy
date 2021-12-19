@@ -32,8 +32,7 @@ class Stark {
         this.name = "Seya",
         this.sex = "female",
         this.type = "cute-human",
-        this.hobby = "developer",
-        this.node = 16.6 +
+        this.hobby = "coding",
         this.discord.tag = "Seya#0001"
     };
 }
