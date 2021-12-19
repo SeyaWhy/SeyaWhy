@@ -26,9 +26,25 @@
 <a href="https://twitter.com/SeyaWhy"><img src="https://img.shields.io/badge/-SeyaWhy-000000?style=flat&logo=twitter"/></a>
 <a href="https://discordapp.com/users/585019634835783700"><img src="https://img.shields.io/badge/-SeyaWhy%230001-000000?style=flat&logo=discord"/></a>
 
+```js
+class Stark {
+    constructor(options) {
+        this.name = "Seya",
+        this.sex = "female",
+        this.type = "cute-human",
+        this.hobby = "developer",
+        this.node = 16.6 +
+        this.discord.tag = "Seya#0001"
+    };
+}
+
+module.exports = Stark
+```
+<!-- 
+
 <hr style="width:100%;text-align:left;margin-left:0">
 
-![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg)
+![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg) -->
 
 <!-- snake
 <a href="https://github.com/SeyaWhy">
