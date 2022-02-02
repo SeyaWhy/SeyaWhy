@@ -30,7 +30,6 @@
 class Stark {
     constructor(options) {
         this.name = "Seya",
-        this.sex = "female",
         this.type = "human",
         this.hobby = "coding",
         this.discord.tag = "Seya#0001"
