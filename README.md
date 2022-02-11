@@ -2,7 +2,7 @@
 
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/SeyaWhy/README.MD/main/0f89e155d73badb31f8fddf5225be8b1baa5f225c4652f6306f156a78f3bbadc.png" width="300" align="right"></a>
 
-<p>おはようございます！ I am a student developer living in South Korea. I usually use JavaScript and TypeScript <strong>uwu</strong></p>
+<p>こんにちは I am a student developer living in South Korea. I usually use JavaScript and TypeScript <strong>uwu</strong></p>
 
 <br>
 <a href="sdigjsdigksdgdsg"><img src="https://wakatime.com/badge/user/6995312b-ee49-4866-8ade-679949c37361.svg"/></a>
