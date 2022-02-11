@@ -22,12 +22,10 @@
 
 <br><br>
 
-<h2><strong> Discord: </strong></h2>
 <a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&borderRadius=0px&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a>ㅤ<!-- &borderRadius=3px -->
-
-<h2><strong> Contact Me: </strong></h2>
+<!-- 
 <a href="https://twitter.com/SeyaWhy"><img src="https://img.shields.io/badge/-SeyaWhy-000000?style=flat&logo=twitter"/></a>
-<a href="https://discordapp.com/users/585019634835783700"><img src="https://img.shields.io/badge/-SeyaWhy%230001-000000?style=flat&logo=discord"/></a>
+<a href="https://discordapp.com/users/585019634835783700"><img src="https://img.shields.io/badge/-SeyaWhy%230001-000000?style=flat&logo=discord"/></a> -->
 
 ```js
 class Stark {
