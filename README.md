@@ -40,18 +40,12 @@ class Stark {
 module.exports = Stark
 ```
 
-
-
-<!-- 
-
-<hr style="width:100%;text-align:left;margin-left:0">
-
+<!-- <hr style="width:100%;text-align:left;margin-left:0">
 ![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg) -->
-
-<!-- snake
+OWO!!
 <a href="https://github.com/SeyaWhy">
     <center><img src="https://github.com/SeyaWhy/SeyaWhy/blob/snake/snake.svg" alt="snake"/></center>
-</a> -->
+</a>
 
 <!--
 just a second!
