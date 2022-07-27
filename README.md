@@ -7,7 +7,7 @@
 <br>
 <a href="sdigjsdigksdgdsg"><img src="https://wakatime.com/badge/user/6995312b-ee49-4866-8ade-679949c37361.svg"/></a>
 
-<a href="https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9"><img src="https://img.shields.io/badge/-Mitsukiyo's song that I listen to when I coding.-000000?style=flat&logo=spotify"/></a>
+<a href="https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9"><img src="https://img.shields.io/badge/-Mitsukiyo's song that I listen to when I coding!-000000?style=flat&logo=spotify"/></a>
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
