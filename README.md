@@ -2,7 +2,7 @@
 
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/SeyaWhy/README.MD/main/0f89e155d73badb31f8fddf5225be8b1baa5f225c4652f6306f156a78f3bbadc.png" width="300" align="right"></a>
 
-<p>こんにちは I am a just developer living in South Korea. I usually use JavaScript and TypeScript <strong>uwu</strong></p>
+<p>こんにちは I am a just developer living in South Korea. I usually use JavaScript and TypeScript <strong>awa</strong></p>
 
 <br>
 <a href="sdigjsdigksdgdsg"><img src="https://wakatime.com/badge/user/6995312b-ee49-4866-8ade-679949c37361.svg"/></a>
@@ -42,7 +42,6 @@ module.exports = Stark
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0">
 ![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg) -->
-OWO!!
 <a href="https://github.com/SeyaWhy">
     <center><img src="https://github.com/SeyaWhy/SeyaWhy/blob/snake/snake.svg" alt="snake"/></center>
 </a>
